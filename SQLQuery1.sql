@@ -1,0 +1,1 @@
+﻿Select ID, ProjeAdi, FirmaAdi, Tarih From sepet
